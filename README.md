@@ -1,7 +1,5 @@
     <h1>Image Captioning Project</h1>
-    <p>This project aims to generate descriptive captions for images using deep learning techniques. It combines computer vision and natural language processing to create a model that can automatically generate captions for given images.</p>
-    <br>
-   
+
 <h2>Dependencies and Usage</h2>
 <p>To run the project, the following dependencies are required:</p>
 <ul>
