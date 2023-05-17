@@ -1,4 +1,4 @@
-    <h1>Image Captioning Project</h1>
+<h1>Image Captioning Project</h1>
 
 <h2>Dependencies and Usage</h2>
 <p>To run the project, the following dependencies are required:</p>
