@@ -1,5 +1,5 @@
-<h1>Image Captioning Project</h1>
-<p>This project aims to generate descriptive captions for images using deep learning techniques. It combines computer vision and natural language processing to create a model that can automatically generate captions for given images.</p>
+<h1>Image Captioning Project For Blind Individuals</h1>
+<p>This project aims to generate descriptive captions for images using deep learning techniques. It combines computer vision and natural language processing to create a model that can automatically generate a voice captions for given images .</p>
 <br>
 <h2>Project Overview</h2>
 <ol>
@@ -21,6 +21,7 @@
     <li>NumPy</li>
     <li>tqdm</li>
     <li>NLTK</li>
+    <li>Flask</li>
 </ul>
 
 <br>
