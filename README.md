@@ -44,5 +44,3 @@
     <li>TensorFlow and Keras libraries</li>
     <li>NLTK library</li>
 </ul>
-<h3>Reference Code</h3>
-<a href="https://www.kaggle.com/code/vivekgediya/image-caption-vgg16-lstm">image-caption-vgg16-lstm</a>
